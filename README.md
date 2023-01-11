@@ -1,2 +1,2 @@
 # hello_python
-connect to jenkins
+learning github actions
